@@ -1,0 +1,83 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "what is 1+1?",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "The answer to 1+1 is... 2!",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "more 2?",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "You're asking if there are more 2's?\n\nNo, in this case, the correct answer remains 2. But if you meant to ask about the result of another addition problem, I'd be happy to help with that too!",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "i meant add 2 to the last answer",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "I'm adding 2 to the previous answer, which was... 2!\n\nSo, the new answer is: 2 + 2 = 4",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]
