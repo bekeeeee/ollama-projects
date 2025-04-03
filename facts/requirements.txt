@@ -1,0 +1,7 @@
+langchain
+langchain-community
+ollama
+langchain-ollama
+tiktoken
+chromadb
+black  # Dev package included, remove if not needed
