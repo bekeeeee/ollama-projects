@@ -12,7 +12,9 @@
   "packageManager": "pnpm@10.6.5",
   "dependencies": {
     "@langchain/core": "^0.3.62",
+    "@langchain/google-genai": "^0.2.14",
     "@langchain/ollama": "^0.2.3",
+    "install": "^0.13.0",
     "langchain": "^0.3.29"
   }
 }
