@@ -1,0 +1,19 @@
+-Most LLM's follow a completion style of text generation
+
+- completion vs conversational "back and forth messaging" style 
+
+- List of Messages
+    - System Message
+    - User Message
+    - Assistant Message
+
+- A lot of LangChain assumes you are using a completion model
+- Memory is used to store data in a Chain
+- Used for a ton of stuff, not just storing the list of messages
+
+- LangChain has many kinds of Memory
+    - ConversationTokenBufferMemory
+    - CombinedMemory
+    - ConversationBufferWindowMemory
+    - ConversationBufferMemory
+    
